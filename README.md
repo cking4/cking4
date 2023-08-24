@@ -2,7 +2,7 @@
 
 Caleb King is an experienced engineering leader who spends time creating content. Specialize in web-app, mobile and cloud computing.
 
-If you interested in seeing any my previous work checkout my bio link at [Caleb.Bio](https://caleb.bio)
+If you interested in seeing any my previous work checkout my bio link at [KingCaleb.com](https://KingCaleb.com)
 
 [Follow me on Twitter](https://twitter.com/kingcaleb3)
 
@@ -11,14 +11,18 @@ If you interested in seeing any my previous work checkout my bio link at [Caleb.
 - Bringing all documentation into [Slab](https://forbes.slab.com/)
 - Async demos using [Loom](https://loom.com/)
 - Bertie - Forbes Content Management System [Bertie-Stage](https://stage-bertie.forbes.com/)
-- A new mobile app!
+- Forbes mobile app! [Forbes App](https://github.com/Forbes-Media/forbes-reader)
+- Forbes e-commerce business [Vetted](https://www.forbes.com/vetted/)
 
 If you'd love to talk, my calendar is up to date or a simple slack message works.
+
+## My Content:
+
+I make youtube videos about tech. It started out as my 2020 hobby and been a lot of fun learning and creating. Search for [People In Tech](https://www.youtube.com/channel/UCDr8B1HszSnuJrCnxj5MHLw)
 
 ## My writings:
 
 I write occasionally. I do have a monthly newsletter called **Tech Dad** which you can [subsribe here](https://techdad.pro). Join the tribe of 1000+ developers and get notified when I build something cool, launch something useful and pass huge milestones :)
-
 
 
 <p align='center'><a href="https://twitter.com/KingCaleb3">@kingcaleb3<a> / <a href="mailto:cking@forbes.com">cking@forbes.com<a></p>
